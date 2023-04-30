@@ -1,0 +1,4 @@
+
+> lib-a@1.0.0 build /Users/kanoi/dev/monorepo-practice/packages/lib-a
+> tsc ./src/index.ts --outDir ./dist --declaration
+
